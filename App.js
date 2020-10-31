@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, Button, Alert } from 'react-native'
 import { WebView } from 'react-native-webview'
 import { HTMLString } from './index.js'
 
-const API_KEY = 'AIzaSyBjqJsnirCA0gmfTSjFPLPiGp_8sU2u2vc'
+const API_KEY = 'REPLACE WITH VALID KEYs'
 
 // Web view can inject js into the view as string
 const injectJS = `
